@@ -4,5 +4,6 @@ __pycache__/
 .pytest_cache/
 .env
 reports/
-*.log
+reports/*.log
+!fixtures/*.log
 .DS_Store

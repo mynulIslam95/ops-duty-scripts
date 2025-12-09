@@ -1,0 +1,10 @@
+2026-03-12 07:01:04 INFO  worker started
+2026-03-12 07:01:11 INFO  loaded config from /etc/app/app.conf
+2026-03-12 07:04:22 WARN  retrying upstream catalogue (attempt 1)
+2026-03-12 07:04:25 INFO  upstream catalogue ok
+2026-03-12 07:18:03 ERROR failed to write profile id=4c2a — disk quota on /var/app/data
+2026-03-12 07:18:04 WARN  queue depth 37 (threshold 20)
+2026-03-12 07:22:10 INFO  profile 4c2a retried after cleanup
+2026-03-12 07:41:55 ERROR release job timed out after 30s (build 184)
+2026-03-12 07:42:01 INFO  operator cancelled leftover job 184
+2026-03-12 08:02:44 INFO  shift check: process up
